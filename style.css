@@ -1,0 +1,21 @@
+/* Routes */
+.box {
+    display: flex;
+    gap: 10px;
+    margin: 0px 300px;
+    flex-wrap: wrap;
+}
+
+.center {
+    margin: 0px 300px;
+}
+
+a {
+    text-decoration: none;
+}
+/* All */
+button:hover {
+    box-shadow:0 0 10px red;
+    transform: scale(1.07);
+    transition: 1s;
+}
